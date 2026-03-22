@@ -1,7 +1,3 @@
-README
-
-Aşağıdakini doğrudan README.md içine yapıştır:
-
 # Memur Tatil Planlayıcı
 
 Türkiye’deki resmî tatilleri, yaklaşan tatillere kalan gün sayılarını ve yıllık izin kullanarak tatil süresini nasıl uzatabileceğini gösteren **responsive web uygulaması**.
